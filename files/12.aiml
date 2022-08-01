@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+<category>
+    <pattern>أهلا وسهلا بكم</pattern>
+    <template>Edit bot response
+
+
+
+
+
+<video>https://www.facebook.com/100081892692401/videos/416908510336585/</video>
+<video>https://pandorabots.com/mitsuku/img/mitsuku.mp4</video></template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>
